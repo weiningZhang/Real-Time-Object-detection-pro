@@ -12,6 +12,3 @@ In order to finish this project,I divide this task in three steps.
 
 
 **Tips:** If you using my dataset,please tell me. Thanks!
-
-
-**testtttttttttttt**
