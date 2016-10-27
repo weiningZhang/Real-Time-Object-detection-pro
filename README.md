@@ -11,4 +11,4 @@ In order to finish this project,I divide this task in three steps.
 **Third,** I test the model by using  the test image and video. In the end ,I get a well enough result in my project.
 
 
-**Tips:** If you using my dataset,please tell me. Thanks!
+**Tips:** If you want to use my dataset,please tell me. Thanks!
